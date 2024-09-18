@@ -1,0 +1,181 @@
+.div-1{
+    border: 2px solid black;
+    position: relative;
+}
+
+.div-2{
+    background-color: green;
+    position: fixed ;
+    z-index: 1;
+    width: 300px;
+    height: 50px;
+}
+.div-3{
+    background-color: blue;
+    position: absolute;
+    width: 600px;
+    height: 70px;
+    margin-left: 360px;
+    z-index: 2;
+}
+
+.Q2 div{
+    width: 70px;
+    height: 70px;
+    color: #fff;
+}
+
+.box-1{
+    background-color: darkblue;
+    position: absolute;
+    z-index: 1;
+    border-radius: 4px;
+}
+
+.box-2{
+    background-color: darkcyan;
+    position: absolute;
+    z-index: 2;
+    border-radius: 4px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.box-3{
+    background-color: darkmagenta;
+    position: absolute;
+    z-index: 3;
+    border-radius: 4px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.box-4{
+    background-color: darkred;
+    position: absolute;
+    z-index: 4;
+    border-radius: 4px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.Q3 div{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+
+.box-up{
+    background-color: palevioletred;
+    color: #fff;
+    position: absolute;
+}
+
+.box-down{
+    margin-top: 200px;
+    background-color: darkcyan;
+    color: #fff;
+    position: absolute;
+}
+
+.Q4{
+    width: 500PX;
+}
+.Q4 div{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.b-1, .b-12{
+    background-color: darkblue ;
+}
+
+.b-2, .b-11{
+    background-color: darkcyan ;
+}
+
+.b-3, .b-10{
+    background-color: darkgoldenrod ;
+}
+
+.b-4, .b-9{
+    background-color: darkgreen ;
+}
+
+.b-5, .b-8{
+    background-color: darkkhaki ;
+}
+
+.b-6{
+    background-color: darkmagenta ;
+}
+
+.b-7{
+    background-color: darkred ;
+}
+
+.b-1{
+    position: relative;
+}
+.b-1,.b-2,.b-3,.b-4{
+    display: inline-flex;
+    position: static;
+}
+
+.b-5,.b-6,.b-7,.b-8{
+    display: inline-flex;
+    position: static;
+}
+
+.b-9,.b-10,.b-11,.b-12{
+    display: inline-flex;
+    position: static;
+}
+
+.left-side{
+    position: fixed;
+}
+.right-side{
+    margin-left: 240px;
+}
+
+.nav{
+    background-color: gray;
+    color: #fff;
+    position: sticky;
+    text-align: center;
+    padding: 20px;
+}
+
+.img-1{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    z-index: 1;
+    padding-left: 50px;
+}
+
+.img-2,.img-3,.img-4{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.img-2{
+    padding-left: 20px;
+    padding-top: 10px;
+    
+}
+
+.img-3{
+    padding-left: 40px;
+    padding-left: 20px;
+}
+
+.img-4{
+    padding-left: 60px;
+    padding-left: 30px;
+}

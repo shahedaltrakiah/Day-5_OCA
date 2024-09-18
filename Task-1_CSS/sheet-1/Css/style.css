@@ -1,0 +1,210 @@
+.p-4{
+    color: pink;
+}
+
+.p-6{
+    color: yellow;
+    font-size: 3rem;
+}
+
+.Q3{
+    border: 1px solid gray;
+    padding: 10px;
+    width: 610px;
+}
+.head{
+    background-color: blue;
+    color: yellow;
+    text-align: center;
+    font-size: 40px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
+
+.q4-p3{
+    background-image: url('../img/bg-text.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+
+.Q5{
+    background-image: url('../img/bg-text.avif') ;
+    background-repeat: repeat-y;
+    background-size: auto;
+}
+
+.heading{
+    color: aqua;
+}
+
+.third{
+    color: aqua;
+}
+
+#second{
+    color: green;
+}
+
+#fourth{
+    color: red;
+}
+
+.Q8{
+    background-color: aquamarine;
+}
+
+.p1{
+    background-color: bisque;
+    color: red;
+}
+
+.p2{
+    background-image: url(../img/bg-text.avif);
+    color: chocolate;
+}
+
+.p3{
+    background-image: url(../img/html.png);
+    color: green;
+}
+
+.p_1{
+    color: darkgreen;
+    font-weight: bolder;
+}
+
+.class-selector{
+    color: aqua;
+}
+
+#id-selector{
+    background-color:aquamarine;
+    color: yellowgreen;
+}
+
+.red-p{
+    color: red;
+}
+
+.div-1{
+    background-color: rgb(181, 240, 220);
+}
+
+.div-2{
+    background-color: pink;
+    text-align: center;
+}
+
+.odd{
+    color: blue;
+}
+
+.even{
+    color: palevioletred;
+}
+
+.Q10{
+    width: 100%;
+}
+
+.Q10 td{
+    padding: 10px;
+}
+
+.blue{
+    background-color: lightblue;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.pink{
+    background-color: palevioletred;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.orange{
+    background-color: orange;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.Q11{
+    width: 450px;
+}
+
+.Q11 form{
+    border: 3px solid gray;
+    background-color: bisque;
+    padding: 8px;
+}
+
+.Q11 h2{
+    background-color: palevioletred;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin-top: -1px;
+}
+
+.Q11 input , textarea{
+    width: 400px;
+    padding: 8px;
+}
+
+.Q11 button{
+    width: 418px;
+    border: 2px solid gray;
+    background-color: gold;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.Q12 div{
+    text-align: center;
+    padding: 30px;
+    background:  -webkit-linear-gradient( 267deg , #1f1f7a 0% , #80005a 50% , #d4ff00 50% , #05c605 100%  );
+
+}
+
+.Q13 table, tr,th,td{
+    border: 1px solid black;
+}
+
+.Q13 tr,th,td{
+    padding: 8px;
+    padding-left: 14px;
+}
+
+.Q13 td{
+    background-color: cornflowerblue;
+}
+
+.Q13 th{
+    background-color:lightgoldenrodyellow;
+    color: red;
+    font-size: 30px;
+}
+
+.Q13 button{
+    width: 150px;
+    height: 40px;
+    margin-left: 20px;
+}
+
+.Q14{
+    background-image: url(../img/bg-text.avif);
+    background-repeat: repeat-x;
+}
+
+.Q14 div{
+    background-image: url(../img/html.png);
+    background-repeat: repeat-y;
+}
+
+.Q16{
+    background-color: bisque;
+}

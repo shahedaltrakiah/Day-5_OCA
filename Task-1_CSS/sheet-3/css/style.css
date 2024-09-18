@@ -1,0 +1,170 @@
+.Q1 {
+    background-color: yellow;
+    padding-top: 100px;
+    padding-left: 24px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    width: 570px;
+}
+
+.span-1{
+    border: 2px solid black;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.Q4{
+    width: 500px;
+}
+
+.Q5 {
+    background-color: yellow;
+    padding: 30px;
+    width: 570px;
+    border: 3px solid black;
+}
+
+.Q6 {
+    background-color: yellow;
+    padding: 30px;
+    width: 570px;
+    border: 3px solid black;
+    margin: 20px 10px 10px 40px;
+}
+
+.Q7 {
+    background-color: yellow;
+    padding: 30px;
+    width: 570px;
+    border: 15px ridge brown;
+}
+
+.div-nav{
+    height:50px;
+    background-color: aqua;
+}
+
+.div-footer{
+    height:50px;
+    background-color: pink;
+}
+
+.btn{
+    padding: 20px;
+    background-color: rgb(75, 184, 148);
+    color: azure;
+    border-radius: 20px;
+}
+
+.div-center{
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.Q9{
+    background-color: black;
+    padding: 40px;
+}
+
+.center-div{
+    padding: 70px;
+    box-shadow: 10px 10px 50px 15px blue;
+    border-radius: 20px;
+    background-color: aliceblue;
+    color: black;
+    width: 90px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 450px;
+}
+
+.center{
+    padding: 70px;
+    border: 2px solid blue;
+    box-shadow: 0px 2px 5px 6px green;
+    color: black;
+    width: 90px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.box-1{
+    border-top: 2px dotted black;
+    border-bottom: 2px dotted black;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.box-2{
+    border-left: 2px dotted black;
+    border-bottom: 2px dotted black;
+    border-top: 2px solid blue;
+    border-right: 2px solid blue;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.box-3{
+    border: 2px dotted black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.box-4{
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.box-5{
+    border: 2px solid blue;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.box-6{
+    border-left: 2px solid blue;
+    border-bottom: 2px dotted black;
+    border-top: 2px solid blue;
+    border-right: 2px solid blue;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.Q12{
+    border: 2px solid brown;
+    width: 500px;
+    background-color: bisque;
+    padding: 15px;
+}
+
+.box{
+    border: 2px dashed orange;
+    background-color: gold;
+    color: black;
+    overflow: scroll;
+}
+
+.Q12 img {
+    border: 5px solid gold;
+    margin-bottom: 10px;
+}
+
+.nav-div{
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+
+.nav-div ul {
+    display: inline-flex;
+}
+
+.nav-div li{
+    margin-left: 20px;
+}

@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Trirong:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.p-1{
+    font-family: "Trirong", serif;
+    font-weight: 100;   
+    font-style: normal;
+}
+
+.div-100{
+    background-color: red;
+    opacity: 100%;
+    text-align: center;
+    height: 30px;
+}
+
+.div-50{
+    background-color: red;
+    opacity: 50%;
+    text-align: center;
+    height: 30px;
+}
+
+.div-25{
+    background-color: red;
+    opacity: 25%;
+    text-align: center;
+    height: 30px;
+}
+
+.div-0{
+    background-color: red;
+    opacity: 10%;
+    text-align: center;
+    height: 30px;
+}
+
+#p-1{
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#p-2{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    background-color: aqua;
+}
+
+#p-3{
+    color: palevioletred;
+    text-transform: capitalize;
+    text-shadow:2px 2px pink;
+}
+
+#p-4{
+    color: yellow;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-align: right;
+}
+
+.div-1{
+    overflow: visible;
+    background-color: orange;
+    height: 40px;
+}
+
+
+.div-2{
+    overflow: hidden;
+    background-color: darkblue;
+    height: 48px;
+}
+
+
+.div-3{
+    overflow: scroll;
+    background-color: darkred;
+    height: 50px;
+}
+
+
+.div-4{
+    overflow: auto;
+    background-color: deeppink;
+    height: 50px;
+}
+
+
+.div-5{
+    overflow-x: auto;
+    background-color: darkcyan;
+    height: 40px;
+}
+
+.Q9 h2{
+    text-decoration: underline;
+    color: green;
+    font-weight: bold;
+}
+
+.Q9 textarea{
+    overflow: scroll;
+    background-color: black;
+    color: gold;
+    width: 400px;
+    height: 100px;
+    text-align: left;
+}
+
+.text-1 , .text-2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    font-style: italic;
+}
+
+.img-1 ,.img-2{
+    width: 100px;
+    height: 100px;
+}
+

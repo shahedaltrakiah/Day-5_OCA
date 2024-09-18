@@ -1,0 +1,13 @@
+.Q1{
+    display: flex;
+    background-color: darkmagenta;
+    height: 400px;
+}
+
+.div-q1{
+    background-color: aliceblue;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px ;
+}
